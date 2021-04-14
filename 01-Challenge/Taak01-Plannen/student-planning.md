@@ -15,14 +15,14 @@ Ik weet nog niet precies wat ik ga maken.
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | Bezig  |
+| ...         | Styling van elementen bepalen                  | 00:30 u             | Bezig  |
+| Realiseren  | Bestanden aanmaken                             | 00:30 u             | Bezig  |
+| ...         |                                                | 00:30 u             | Bezig  |
+| Testen      | Applicatie testen                              | 00:30 u             | Bezig  |
+| ...         |                                                | 00:30 u             | Bezig  |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | Bezig  |
+| ...         |                                                | 00:30 u             | Bezig  |
+| Presenteren |                                                | 00:30 u             | Bezig  |
+| ...         |                                                | 00:30 u             | Bezig  |
+| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | Bezig  |
