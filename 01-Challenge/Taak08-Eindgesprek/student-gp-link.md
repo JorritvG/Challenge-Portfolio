@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Jorrit Jan van Geffen`
 
-Klas    : `klascode`
+Klas    : `LCT0A`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [https://chportfolio.netlify.app](https://chportfolio.netlify.app)
